@@ -1,0 +1,2 @@
+VERSION="1.00"
+APP_NAME="Winlocky"
